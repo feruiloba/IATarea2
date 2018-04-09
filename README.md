@@ -5,7 +5,7 @@ Inteligencia Artificial
 <h1>Manual de Usuario</h1>
 
 
-<b>Tarea 2:</b> implementación del algoritmo a-estrella para encontrar la ruta más corta entre dos nodos
+<h4><b>Tarea 2:</b> implementación del algoritmo a-estrella para encontrar la ruta más corta entre dos nodos</h4>
 
 
 <b>Integrantes</b><br>
@@ -20,14 +20,14 @@ Fecha de elaboración de manual de usuario
 
 <hr>
 <h3>Instalación</h3>
-<br>
-Para la ejecución de este archivo son necesarios los siguientes programas:
-CLISP
-Liga de descarga: https://sourceforge.net/projects/clisp/
-Quicklisp (usocket)
-Liga de descarga e instrucciones:  https://www.quicklisp.org/beta/
-NodeJS
-Liga de descarga: https://nodejs.org/es/
+<br><br>
+Para la ejecución de este archivo son necesarios los siguientes programas:<br>
+CLISP<br>
+Liga de descarga: https://sourceforge.net/projects/clisp/<br>
+Quicklisp (usocket)<br>
+Liga de descarga e instrucciones:  https://www.quicklisp.org/beta/<br>
+NodeJS<br>
+Liga de descarga: https://nodejs.org/es/<br>
 
 
 <hr>
