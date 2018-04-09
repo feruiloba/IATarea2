@@ -1,7 +1,3 @@
-INSTITUTO TECNOLÓGICO AUTÓNOMO DE MÉXICO<br>
-Inteligencia Artificial
-
-
 <h1>Manual de Usuario</h1>
 
 <h4><b>Tarea 2:</b> implementación del algoritmo a-estrella para encontrar la ruta más corta entre dos nodos</h4>
@@ -14,7 +10,7 @@ Fernando Ruiloba Portilla  – 148277 <br>
 Diego Gutiérrez Romero – 147801 <br>
 Luis Fernández Ayarzagoitia – 145656 <br>
 
-
+<br><br>
 
 Fecha de elaboración de manual de usuario
 06/04/18
